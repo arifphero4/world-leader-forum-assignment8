@@ -4,6 +4,14 @@
 }
 .leader-container{
    
-    display: flex;
+    /* display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+}
+.donation-container{
+    margin-left: 15px;
 }
