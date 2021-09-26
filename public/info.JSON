@@ -1,0 +1,192 @@
+[
+    {
+        "key":101,
+        "name": "Joe Biden",
+        "age": 78,
+        "designation": "President",
+        "country": "United States",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.1.usa.png",
+        "donationAmount": 97500000
+    },
+    {
+        "key":102,
+        "name": "Xi Jinping",
+        "age": 68,
+        "designation": "President",
+        "country": "China",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.2.china.png",
+        "donationAmount": 53000000
+
+    },
+    {
+        "key":103,
+        "name": "Narendra Modi",
+        "age": 71,
+        "designation": "Prime Ministe",
+        "country": "India",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.3.india.png",
+        "donationAmount": 2000000
+    },
+    {
+        "key":104,
+        "name": "Vladimir Putin",
+        "age": 68,
+        "designation": "President",
+        "country": "Russia",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.4.russia.png",
+        "donationAmount": 78000000
+    },
+    {
+        "key":105,
+        "name": "Yoshihide Suga",
+        "age": 72,
+        "designation": "Prime minister",
+        "country": "Japan",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.5.japan.png",
+        "donationAmount": 35008000
+    },
+    {
+        "key":106,
+        "name": "Emmanuel Macron",
+        "age": 43,
+        "designation": "President",
+        "country": "France",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.6.france.png",
+        "donationAmount": 75390000        },
+    {
+        "key":107,
+        "name": "Boris Johnson",
+        "age": 57,
+        "designation": "Prime minister",
+        "country": "United Kingdom",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.7.uk.png",
+        "donationAmount": 20005000
+    },
+    {
+        "key":108,
+        "name": "Jair Bolsonaro",
+        "age": 66,
+        "designation": "President",
+        "country": "Brazil",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.8.brazil.png",
+        "donationAmount": 12785000
+    },
+    {
+        "key":109,
+        "name": "Angela Merkel",
+        "age": 67,
+        "designation": "Chancellor",
+        "country": "Germany",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.9.germany.png",
+        "donationAmount": 32475000
+    },
+    {
+        "key":110,
+        "name": "Justin Trudeau",
+        "age": 49,
+        "designation": "Prime minister",
+        "country": "Canada",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.10.canada.png",
+        "donationAmount": 43503000
+    },
+    {
+        "key":111,
+        "name": "Salman bin Abdulaziz",
+        "age": 85,
+        "designation": "King",
+        "country": "Saudi Arabia",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.11.saudi.png",
+        "donationAmount": 56357000
+    },
+    {
+        "key":112 ,
+        "name": "Scott Morrison",
+        "age": 53,
+        "designation": "Prime minister",
+        "country": "Australia",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.12.australia.png",
+        "donationAmount": 7005000
+    },
+    {
+        "key":113,
+        "name": "Moon Jae-in",
+        "age": 68,
+        "designation": "President",
+        "country": "South Korea",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.13.%20South-Korea.png",
+        "donationAmount": 30005000
+    },
+    {
+        "key":114,
+        "name": "Recep Tayyip Erdoğan",
+        "age": 67,
+        "designation": "President",
+        "country": "Turkey",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.14.turkey.png",
+        "donationAmount": 20765000
+    },
+    {
+        "key":115,
+        "name": "Sergio Mattarella",
+        "age": 80,
+        "designation": "President",
+        "country": "Italy",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.15.italy.png",
+        "donationAmount": 17500000
+    },
+    {
+        "key":116,
+        "name": "Joko Widodo",
+        "age": 60,
+        "designation": "President",
+        "country": "Indonesia",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.16.indonesia.png",
+        "donationAmount": 1005000
+    },
+    {
+        "key":117,
+        "name": "Sheikh Tamim",
+        "age": 41,
+        "designation": "Emir",
+        "country": "Qatar",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.17.qatar.png",
+        "donationAmount": 85055000
+    },
+    {
+        "key":118,
+        "name": "Ebrahim Raisi",
+        "age": 60,
+        "designation": "President",
+        "country": "Iran",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.18.iran.png",
+        "donationAmount": 4505000
+    },
+    {
+        "key":119,
+        "name": "Imran Khan",
+        "age": 68,
+        "designation": "Prime minister",
+        "country": "Pakistan",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.19.pakistan.png",
+        "donationAmount": 12500000
+    },
+    {
+        "key":120,
+        "name": "Jacinda Ardern",
+        "age": 41,
+        "designation": "Prime minister",
+        "country": "New Zealand",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.20.new-zealand.png",
+        "donationAmount": 225005000
+    },
+    {
+        "key":121,
+        "name": "Khalifa bin Zayed",
+        "age": 73,
+        "designation": "President",
+        "country": "United Arab Emirates",
+        "img": "https://elated-volhard-4aef90.netlify.app/leader.21.uae.png",
+        "donationAmount": 8700000
+    }
+   
+]
