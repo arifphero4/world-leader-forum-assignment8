@@ -17,6 +17,6 @@ website link: https://leaders-forum-arifphero4.netlify.app/
 
 ## Features
 - You can see total funding to prevent CLIMATE CHANGE challenge
-- You will get information about how much money leaders are 
+- You will get information about how much money leaders are contributing
 
 
