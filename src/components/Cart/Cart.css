@@ -3,8 +3,7 @@
     grid-template-columns: 3fr 1fr;
 }
 .leader-container{
-    margin-left: 20px;
-}
-.donation-container{
-    margin-left: 10px;
+   
+    display: flex;
+    flex-wrap: wrap;
 }

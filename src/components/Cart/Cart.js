@@ -21,7 +21,7 @@ const Cart = () => {
     return (
         <div className="cart-container">
             <div className="leader-container">
-                <h3>Forum members: {leaders.length} </h3>
+                
                 {
                     leaders.map(leader => <Leaders
                         key={leader.key}
