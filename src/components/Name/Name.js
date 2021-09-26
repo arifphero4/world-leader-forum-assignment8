@@ -4,8 +4,7 @@ import './Name.css'
 const Name = (props) => {
     console.log(props.name.name);
     return (
-        <div>
-            
+        <div>            
             <h5>
             {
                 props.name.name
